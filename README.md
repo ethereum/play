@@ -1,2 +1,2 @@
-# ethereum-play.github.io
-ethereum play code camp
+# play
+ethereum education codecamp
