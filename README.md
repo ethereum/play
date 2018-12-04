@@ -2,7 +2,7 @@
 
 **Ethereum distributed education system** with embedded Play editor (light version of Remix)
 
-[![Gitter](https://img.shields.io/gitter/room/DAVFoundation/DAV-Contributors.svg?style=flat-square)](https://gitter.im/DAVFoundation/DAV-Contributors) [![license](https://img.shields.io/github/license/DAVFoundation/api_doc.svg?style=flat-square)](https://github.com/DAVFoundation/api_doc/blob/master/LICENSE)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sahat/hackathon-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)](https://gitter.im/ethereum/play)
 
 <img src="https://i.imgur.com/7iB0xCm.png" align="right" width=40%/>
 
