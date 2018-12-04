@@ -2,7 +2,7 @@
 
 **Ethereum distributed education system** with embedded Play editor (light version of Remix)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sahat/hackathon-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)](https://gitter.im/ethereum/play)
+[![Join the chat at https://gitter.im/ethereum/play](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/play?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img src="https://i.imgur.com/7iB0xCm.png" align="right" width=40%/>
 
