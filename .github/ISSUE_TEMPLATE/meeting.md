@@ -6,15 +6,18 @@ about: plan a meeting
 # AGENDA
 `location` https://meet.jit.si/play
 
-## SPECIFICS:
+* ## 1. TASKS (for the week)
   * > [ ] `vX.X.X` @username [#XX issue](#link)
 
-## GENERAL:
-  * [#6 ROADMAP](https://github.com/ethereum/play/issues/6)
-  * [#3 SPECIFICATION](https://github.com/ethereum/play/issues/3)
+* ## 2. CHANGE PROPOSALS
+  * > [ ] add2roadmap? [#XX ...](#link)
 
-## PROPOSAL
-* > [ ] add2roadmap? [#XX ...](#link)
+* ## 3. GENERAL
+  * [ ] [CURRENT MILESTONE](https://github.com/ethereum/play/milestone/1)
+  * [ ] [ROADMAP](https://github.com/ethereum/play/milestones)
+  * [ ] [SPECIFICATION](https://github.com/ethereum/play/issues/3)
+
+
 
 ---
 
@@ -33,7 +36,7 @@ about: plan a meeting
 
 ## 2. discussion & decisions (`during the meeting`)
 
-#### about specifics
+#### about tasks
 * ...
 
 #### about proposals
