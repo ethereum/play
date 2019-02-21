@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "play",
+  "version": "0.0.0",
+  "description": "play organisation dashboard",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js --title $npm_package_name --force-default-index --open --live --ssl",
+    "build": "browserify --full-paths index.js > bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum/play.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethereum/play/issues"
+  },
+  "homepage": "https://github.com/ethereum/play#readme",
+  "devDependencies": {
+    "budo": "^11.6.0"
+  },
+  "dependencies": {
+    "bel": "^6.0.0",
+    "csjs-inject": "^1.0.1"
+  }
+}

@@ -1,2 +1,9 @@
-console.log('play')
-document.body.innerHTML = '<h1> play </h1>'
+const dashboard = require('./')
+
+const data = {
+  name: 'play'
+}
+
+const element = dashboard(data)
+
+document.body.appendChild(element)
