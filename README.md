@@ -6,8 +6,8 @@ Making contract deployment fun
 
 [![img](https://imgur.com/gbfKgTo.png)](https://www.loom.com/share/eda49b7304bf4e568b83f90d4b99a813)
 
-To deploy a contract, all you will need are:
-* [Play editor](https://play.ethereum.org/editor-solidity/)
+To deploy a contract, all you need are:
+* [Play editor](https://play.ethereum.org/editor-solidity/) &
 * [Metamask](https://metamask.io/)
 
 
