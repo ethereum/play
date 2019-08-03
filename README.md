@@ -1,6 +1,6 @@
-## play.ethereum.org
+# play.ethereum.org
 
-# **Lightweight solidity editor**
+## **Lightweight solidity editor**
 
 Making contract deployment fun
 
