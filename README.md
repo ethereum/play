@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/ethereum/play](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/play?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # play ed
 
 in the browser lightweight editor based on code mirror with `smart contract iu`
